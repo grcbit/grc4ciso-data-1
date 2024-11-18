@@ -1,0 +1,5 @@
+"id","description","name"
+"__export__.security_domain_1_962c81b9","Includes “Information System Security Governance & Risk Management” and “Ecosystem cybersecurity management” (including internal and external stakeholders).","#Governance_and_Ecosystem"
+"__export__.security_domain_2_12ae743f","Includes “IT Security Architecture”, “IT Security Administration”, “Identity and access management”, “IT Security Maintenance” and “Physical and environmental security”.","#Protection"
+"__export__.security_domain_3_4182c2d0","Includes “Detection” and “Computer Security Incident Management”.","#Defense"
+"__export__.security_domain_4_9d528f3e","Includes “Continuity of operations” and “Crisis management”.","#Resilience"
