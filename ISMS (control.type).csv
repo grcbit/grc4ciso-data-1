@@ -1,0 +1,4 @@
+"id","name","description"
+"__export__.control_type_1_e1264705","#Preventive","The control that is intended to prevent the occurrence of an information security incident."
+"__export__.control_type_2_3f2e2f27","#Detective","The control acts when an information security incident occurs."
+"__export__.control_type_3_0baf7cb8","#Corrective","The control acts after an information security incident occurs."
