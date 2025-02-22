@@ -1,8 +1,0 @@
-"id","description","value"
-"__export__.relevance_threat_events_1_00ded298","The threat event or TTP has been seen by the organization.","Confirmed"
-"__export__.relevance_threat_events_2_a69741c4","The threat event or TTP has been seen by the organization’s peers or partners","Expected"
-"__export__.relevance_threat_events_3_09bb43ba","The threat event or TTP has been reported by a trusted source","Anticipated"
-"__export__.relevance_threat_events_4_c9c2ea21","The threat event or TTP has been predicted by a trusted source.","Predicted"
-"__export__.relevance_threat_events_5_ef40c69b","The threat event or TTP has been described by a somewhat credible source.","Possible"
-"__export__.relevance_threat_events_6_15b4d95b","The threat event or TTP is not currently applicable. For example, a threat event or TTP could assume specific technologies, architectures, or processes that are not present in the organization, mission/business process, EA segment, or information system; or predisposing conditions that are not present (e.g., location in a flood plain). Alternately, if the organization is using detailed or specific threat information, a threat event or TTP could be deemed inapplicable because information indicates that 
-no adversary is expected to initiate the threat event or use the TTP.","N/A"

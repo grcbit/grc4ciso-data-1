@@ -1,4 +1,0 @@
-"id","description","name"
-"__export__.control_type_1_ab98cd19","El control que pretende prevenir la ocurrencia de un incidente de seguridad de la información.","#Preventivo"
-"__export__.control_type_2_000ef2c1","El control actúa cuando ocurre un incidente de seguridad de la información","#Detectivo"
-"__export__.control_type_3_4754ec7e","El control actúa después de que ocurre un incidente de seguridad de la información","#Correctivo"

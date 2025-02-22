@@ -1,6 +1,0 @@
-"id","description","qualitative_value","semiquantitative_values"
-"__export__.characteristics_adversary_capability_1_2b9ba645","The adversary has very limited resources, expertise, and opportunities to support a successful attack.","Very High","10.0"
-"__export__.characteristics_adversary_capability_2_d3c56ee9","The adversary has a sophisticated level of expertise, with significant resources and opportunities to support multiple successful coordinated attacks. ","High","8.0"
-"__export__.characteristics_adversary_capability_3_2b726f43","The adversary has moderate resources, expertise, and opportunities to support multiple successful attacks.","Moderate","5.0"
-"__export__.characteristics_adversary_capability_4_92f55310","The adversary has limited resources, expertise, and opportunities to support a successful attack","Low","2.0"
-"__export__.characteristics_adversary_capability_5_fd7f20e6","The adversary has very limited resources, expertise, and opportunities to support a successful attack.","Very Low","0.0"
