@@ -1,0 +1,4 @@
+"id","description","name","value"
+"__export__.risk_level_1_5ae86fc1","El impacto sobre la confidencialidad, integridad y disponibilidad de la información es bajo.","Low","1"
+"__export__.risk_level_2_fe112a55","El impacto sobre la confidencialidad, integridad y disponibilidad de la información es medio.","Medium","2"
+"__export__.risk_level_3_a244a37d","El impacto sobre la confidencialidad, integridad y disponibilidad de la información es alto.","High","3"

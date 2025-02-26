@@ -1,0 +1,4 @@
+"id","description","name","value"
+"__export__.probability_level_1_af069205","La probabilidad de ocurrencia es de 1 o varias veces al año.","Low","1"
+"__export__.probability_level_2_cc64b158","La probabilidad de ocurrencia es de 1 o varias veces cada 6 meses.","Medium","2"
+"__export__.probability_level_3_a58aba8d","La probabilidad de que ocurra es de una o varias veces al mes.","High","3"
