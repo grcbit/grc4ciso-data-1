@@ -13,5 +13,5 @@ To import data to your database, you can use "Favorites" --> "Import records" op
 
 ### **Contact**
 
-- email: rl@grcbit.com
+- email: rodolfo.lopez@outlook.com
 - web: https://grc4ciso.com
